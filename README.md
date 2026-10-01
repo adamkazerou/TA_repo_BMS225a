@@ -1,2 +1,6 @@
 # TA_repo_BMS225a
 
+# THis is my first repo
+
+-- `code` goes here
+-- `work` is so much fun
