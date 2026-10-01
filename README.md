@@ -1,6 +1,7 @@
 # TA_repo_BMS225a
 
-# THis is my first repo
+# This is my first repo
 
--- `code` goes here
--- `work` is so much fun
+- `code` goes here
+- `work` is so much fun
+- `big chungus` is hilarious
